@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/data/data/com.termux/files/home/lab2/cmake_install.cmake",
+		"/data/data/com.termux/files/home/lab2/googletest/cmake_install.cmake",
+		"/data/data/com.termux/files/home/lab2/googletest/googlemock/cmake_install.cmake",
+		"/data/data/com.termux/files/home/lab2/googletest/googletest/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
