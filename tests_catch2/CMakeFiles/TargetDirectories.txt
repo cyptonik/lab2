@@ -1,0 +1,10 @@
+/data/data/com.termux/files/home/lab2/tests_catch2/CMakeFiles/util.dir
+/data/data/com.termux/files/home/lab2/tests_catch2/CMakeFiles/tests.dir
+/data/data/com.termux/files/home/lab2/tests_catch2/CMakeFiles/edit_cache.dir
+/data/data/com.termux/files/home/lab2/tests_catch2/CMakeFiles/rebuild_cache.dir
+/data/data/com.termux/files/home/lab2/tests_catch2/Catch2/CMakeFiles/edit_cache.dir
+/data/data/com.termux/files/home/lab2/tests_catch2/Catch2/CMakeFiles/rebuild_cache.dir
+/data/data/com.termux/files/home/lab2/tests_catch2/Catch2/src/CMakeFiles/Catch2.dir
+/data/data/com.termux/files/home/lab2/tests_catch2/Catch2/src/CMakeFiles/Catch2WithMain.dir
+/data/data/com.termux/files/home/lab2/tests_catch2/Catch2/src/CMakeFiles/edit_cache.dir
+/data/data/com.termux/files/home/lab2/tests_catch2/Catch2/src/CMakeFiles/rebuild_cache.dir

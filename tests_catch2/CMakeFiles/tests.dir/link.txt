@@ -1,0 +1,1 @@
+/data/data/com.termux/files/usr/bin/c++ -O2 -g -DNDEBUG -Xlinker --dependency-file=CMakeFiles/tests.dir/link.d CMakeFiles/tests.dir/tests.cpp.o -o tests  libutil.a Catch2/src/libCatch2Main.a Catch2/src/libCatch2.a -llog
