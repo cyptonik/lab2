@@ -1,3 +1,7 @@
 [submodule "tests_googletest/googletest"]
 	path = tests_googletest/googletest
 	url = https://github.com/google/googletest
+
+[submodule "tests_catch2/Catch2"]
+	path = tests_catch2/Catch2
+	url = https://github.com/catchorg/Catch2
